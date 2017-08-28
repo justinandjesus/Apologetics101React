@@ -1,0 +1,18 @@
+[
+    {
+        "id": 2,
+        "title": "Cosmological Argument",
+        "description": "",
+        "category": "ARG",
+        "content": "",
+        "cover": "/assets/media/318x300.png"
+    },
+    {
+        "id": 3,
+        "title": "Moral Argument",
+        "description": "",
+        "category": "ARG",
+        "content": "",
+        "cover": "/assets/media/318x300.png"
+    }
+]

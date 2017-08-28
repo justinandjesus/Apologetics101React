@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "Cosmological Argument",
+        "description": "",
+        "category": "ARG",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis voluptatem dicta atque aspernatur nulla autem est, explicabo earum sed vero.",
+        "cover": "../assets/img/318x300.png"
+    },
+    {
+        "id": 2,
+        "title": "Moral Argument",
+        "description": "",
+        "category": "ARG",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi quam, magni quod, aperiam libero quas ut sapiente voluptatibus veniam nam.",
+        "cover": "../assets/img/318x300.png"
+    }
+]
